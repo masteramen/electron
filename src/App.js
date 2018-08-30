@@ -91,7 +91,7 @@ class App extends Component {
 	
   constructor(props){
 	  super(props)
-	  let id = 'jmI_3-YP0jc';
+	  let id = '1JwIq8NnjAw';
 	  this.state = {curId:id,txt:'',nextId:'',url:getUrl(id),duration:1,curTime:0}
 	  window.addEventListener('keyup', ()=>{
 		  alert('ehlo')
